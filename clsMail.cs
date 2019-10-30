@@ -8,7 +8,7 @@ public class clsMail
             //sendto: Email receiver (người nhận)
             //subject: Tiêu đề email
             //content: Nội dung của email, bạn có thể viết mã HTML
-            //Nếu gửi email thành công, sẽ trả về kết quả: OK, không thành công sẽ trả về thông tin l�-i
+            //Nếu gửi email thành công, sẽ trả về kết quả: OK, không thành công sẽ trả về thông tin lỗi
             try
             {
                 MailMessage mail = new MailMessage();
