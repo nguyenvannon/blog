@@ -1,4 +1,4 @@
-// Hàm khởi tạo hộp thoại cảnh báo có nút
+// Hàm khởi tạo hộp thoại tùy chỉnh
   void _showAlert(BuildContext context) {
     showDialog(
         context: context,
