@@ -1,0 +1,29 @@
+[{
+  "Rect": {
+    "Type": 30,
+    "Chunks": [],
+    "Top": -569.6974,
+    "Border": -1,
+    "GrayFill": 0,
+    "Left": 177.7,
+    "Right": 213.086,
+    "Bottom": -582.6974,
+    "BorderColorBottom": null,
+    "BorderColorTop": null,
+    "BorderColorLeft": null,
+    "BorderColorRight": null,
+    "Width": 35.386,
+    "Height": 13,
+    "BorderWidth": -1,
+    "BorderColor": null,
+    "BackgroundColor": null,
+    "Rotation": 0,
+    "BorderWidthLeft": -1,
+    "BorderWidthRight": -1,
+    "BorderWidthTop": -1,
+    "BorderWidthBottom": -1,
+    "UseVariableBorders": false
+  },
+  "Text": "Non Nguyen Blog"
+}
+]
