@@ -1,4 +1,4 @@
-//Helper class that stores our rectangle and text
+// Class này giúp lưu trữ văn bản, tọa độ (trong hình chữ nhật)
 public class RectAndText {
     public iTextSharp.text.Rectangle Rect;
     public String Text;
